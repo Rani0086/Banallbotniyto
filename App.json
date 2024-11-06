@@ -3,7 +3,7 @@
     "description": "simple bot to ban all the mumber form the ᴄʜᴀᴛs",
     "logo": "https://envs.sh/jU_.png",
     "keywords": ["plant-salda", "ban-all"],
-    "repository": "https://github.com/Rani0086/plantbanall",
+    "repository": "https://github.com/Rani0086/Banallbotniyto",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
