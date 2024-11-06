@@ -1,9 +1,9 @@
 {
-    "name": "plant ʙᴀɴ ᴀʟʟ",
-    "description": "simple bot to ban all the mumber form the ᴄʜᴀᴛs",
-    "logo": "https://envs.sh/jU_.png",
-    "keywords": ["plant-salda", "ban-all"],
-    "repository": "https://github.com/Rani0086/Banallbotniyto",
+    "name": "copyright protection",
+    "description": "this bot protect your gc for copy right  and ban this persan for your gc",
+    "logo": "https://graph.org/file/d85cfa52eeaecb7cc68e3.jpg",
+    "keywords": ["ᴋɪsᴀɴ-ʀᴀᴠɪ", "ʙᴀɴ-ᴀʟʟ"],
+    "repository": "https://github.com/iVINGSTYLE/BANALL",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
@@ -11,7 +11,7 @@
             "required": true
         },
         "OWNER": {
-            "description": "ᴛʏᴘᴇ ʏᴏᴜʀ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @ ll_ALPHA_BABY_lll",
+            "description": "ᴛʏᴘᴇ ʏᴏᴜʀ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @ ʟɪᴋᴇ ʙɪᴋᴀsʜʜᴀʟᴅᴇʀ",
             "required": true,
             "value": ""
         },
@@ -39,3 +39,4 @@
               "quantity": 1
           }
       }
+}
